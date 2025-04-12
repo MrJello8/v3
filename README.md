@@ -4,7 +4,7 @@
 
 # frogie's arcade v3
 
-its only the proxy part, just so akane wont rape me and my vps
+its only the proxy part
 
 
 ## deployment
